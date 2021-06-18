@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Steps for FaceMesh app
+
+* 1. Install dependencies -- Done
+    * npx create-react-app <react-app-name>
+* 2. Import dependencies -- Done
+    * npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam
+* 3. Start app
+    * npm run start
+* 4. Setup webcam and canvas -- Done
+* 5. Define references to those -- Done
+* 6. Load facemesh -- Done
+* 7. Detect function --
+* 8. Drawing utilities from tensorflow
+* 9. Draw functions
+
+* yarn add ml5
+
